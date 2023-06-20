@@ -13,7 +13,7 @@ To set up the Text-Editor project, follow these steps:
 Install XAMPP server on your system by downloading it from the official website mentioned above.
 
 Clone the repository:
-git clone https://github.com/your-username/Text-Editor.git
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Move the cloned repository to the appropriate directory of your XAMPP server. For example, in a typical XAMPP installation on Windows, move it to the htdocs folder.
 
